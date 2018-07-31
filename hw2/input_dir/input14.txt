@@ -1,0 +1,11 @@
+2
+3
+Russia
+Germany,France
+China,Canada
+AFC:China
+CAF:None
+OFC:Canada
+CONCACAF:None
+CONMEBOL:None
+UEFA:Germany,Russia,France

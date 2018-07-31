@@ -1,0 +1,12 @@
+2
+4
+China,Germany
+Japan,England
+France
+Ice Land
+AFC:China,Japan
+CAF:None
+OFC:None
+CONCACAF:None
+CONMEBOL:None
+UEFA:Germany,England,France,Ice Land

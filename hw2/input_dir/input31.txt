@@ -1,0 +1,9 @@
+1
+1
+Russia,China
+AFC:China
+CAF:None
+OFC:None
+CONCACAF:None
+CONMEBOL:None
+UEFA:Russia

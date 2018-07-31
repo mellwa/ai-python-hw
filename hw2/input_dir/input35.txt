@@ -1,0 +1,16 @@
+4
+8
+Russia,China
+USA
+Australia,Iran
+Brazil,Italy
+France,Tunisia
+Germany,Egypt
+Iceland
+Serbia,Spain
+AFC:China,Iran
+CAF:Tunisia,Egypt
+OFC:Iceland,Australia
+CONCACAF:USA,Serbia
+CONMEBOL:Brazil,Spain
+UEFA:Russia,Italy,France,Germany

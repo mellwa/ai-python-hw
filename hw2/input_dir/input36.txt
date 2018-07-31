@@ -1,0 +1,10 @@
+4
+2
+Russia
+Italy
+AFC:None
+CAF:None
+OFC:None
+CONCACAF:None
+CONMEBOL:None
+UEFA:Russia,Italy

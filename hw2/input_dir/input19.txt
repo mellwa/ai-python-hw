@@ -1,0 +1,12 @@
+3
+4
+Russia,Brazil,Argentina
+None
+None
+None
+AFC:None
+CAF:None
+OFC:None
+CONCACAF:None
+CONMEBOL:Brazil,Argentina
+UEFA:Russia

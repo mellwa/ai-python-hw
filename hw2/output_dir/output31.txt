@@ -1,0 +1,7 @@
+Yes
+Brazil,Japan
+Peru,Iran
+Ecuador,Nepal
+Russia,Tajikistan
+Saudi Arabia
+None

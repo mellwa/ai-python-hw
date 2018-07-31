@@ -1,0 +1,16 @@
+Yes
+Italy,China
+France,Saudi Arabia
+Germany,Maldives
+Japan,Ecuador
+East Timor,Haiti
+South Korea
+Russia,Pakistan
+Yemen
+Jordan
+Lebanon
+Indonesia
+Turkmenistan
+India
+Kyrgyzstan
+None

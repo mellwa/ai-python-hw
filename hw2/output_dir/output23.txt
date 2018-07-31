@@ -1,0 +1,9 @@
+Yes
+Russia,Chile,Germany,Mexico,Tunisia,Australia
+Serbia,Paraguay,Spain,Costa Rica,Japan
+Nigeria,Brazil,Switzerland,Denmark,Panama
+Italy,Portugal,Peru,Egypt,South Korea
+Netherlands,Argentina,England,Senegal,Saudi Arabia
+Czech Republic,Belgium,Colombia,Iran,Morocco
+Poland,Uruguay,Iceland,USA
+France,Sweden

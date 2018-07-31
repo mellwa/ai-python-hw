@@ -1,0 +1,10 @@
+3
+2
+Russia,China,USA
+Korea,Africa,Canada
+AFC:China
+CAF:Africa
+OFC:Korea
+CONCACAF:Canada
+CONMEBOL:USA
+UEFA:Russia

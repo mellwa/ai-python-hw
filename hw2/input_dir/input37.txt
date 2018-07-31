@@ -1,0 +1,10 @@
+4
+2
+China
+Japan
+AFC:China,Japan
+CAF:None
+OFC:None
+CONCACAF:None
+CONMEBOL:None
+UEFA:None

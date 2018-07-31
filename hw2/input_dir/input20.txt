@@ -1,0 +1,12 @@
+3
+4
+Russia,Argentina
+Brazil
+China,Japan,Korea
+None
+AFC:China,Japan,Korea
+CAF:None
+OFC:None
+CONCACAF:None
+CONMEBOL:Brazil,Argentina
+UEFA:Russia
